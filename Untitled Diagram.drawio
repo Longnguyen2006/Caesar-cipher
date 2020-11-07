@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T13:28:14.160Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/90.0.148 Chrome/84.0.4147.148 Safari/537.36" version="13.9.2" etag="PeLpYDhEiV2mxPhVCD4o" type="github"><diagram id="UvQFlAV5khQpfms863Uk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-07T13:40:55.858Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/90.0.148 Chrome/84.0.4147.148 Safari/537.36" etag="qp4JvzdKww_zr5jDHd6D" version="13.9.2" type="github">
+  <diagram id="UvQFlAV5khQpfms863Uk" name="Page-1">
+    <mxGraphModel dx="868" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2xL-EGcUH2UR2rWskEr-1" target="m2xL-EGcUH2UR2rWskEr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-1" value="начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2xL-EGcUH2UR2rWskEr-2" target="m2xL-EGcUH2UR2rWskEr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-2" value="ввести&amp;nbsp;размер бумаги A4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2xL-EGcUH2UR2rWskEr-4" target="m2xL-EGcUH2UR2rWskEr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-4" value="права&lt;br&gt;слева&lt;br&gt;верхну&lt;br&gt;снизу" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2xL-EGcUH2UR2rWskEr-6" target="m2xL-EGcUH2UR2rWskEr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-6" value="печать" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2xL-EGcUH2UR2rWskEr-8" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
