@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T07:27:54.636Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/90.0.148 Chrome/84.0.4147.148 Safari/537.36" etag="j9b4DSgp0znJ4pY3-bki" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T07:31:12.150Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/90.0.148 Chrome/84.0.4147.148 Safari/537.36" etag="WAfnivctmyklbJxSogS1" version="13.9.6" type="github">
   <diagram id="PEvoa_9R4G3SMZEcXzeL" name="Page-1">
-    <mxGraphModel dx="509" dy="-781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1054" dy="-439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,9 @@
         <mxCell id="v5FtWcTqorgzakhENJhd-11" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255)&quot;&gt;ch &amp;gt;= &lt;/span&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box ; color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box&quot;&gt;&#39;&lt;/span&gt;a&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255)&quot;&gt; &amp;amp;&amp;amp; ch &amp;lt;= &lt;/span&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box ; color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box&quot;&gt;&#39;&lt;/span&gt;z&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="1480" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5FtWcTqorgzakhENJhd-13" target="v5FtWcTqorgzakhENJhd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v5FtWcTqorgzakhENJhd-13" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255)&quot;&gt;ch &amp;gt;= &lt;/span&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box ; color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box&quot;&gt;&#39;&lt;/span&gt;A&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255)&quot;&gt; &amp;amp;&amp;amp; ch &amp;lt;= &lt;/span&gt;&lt;span class=&quot;pl-s&quot; style=&quot;box-sizing: border-box ; color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box&quot;&gt;&#39;&lt;/span&gt;Z&lt;span class=&quot;pl-pds&quot; style=&quot;box-sizing: border-box&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1570" width="170" height="80" as="geometry" />
         </mxCell>
@@ -64,14 +67,41 @@
         <mxCell id="v5FtWcTqorgzakhENJhd-17" value="ch &amp;gt; &#39;z&#39;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="1660" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5FtWcTqorgzakhENJhd-19" target="v5FtWcTqorgzakhENJhd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v5FtWcTqorgzakhENJhd-19" value="ch =&#39;z&#39; + &#39;a&#39; - 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="1780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v5FtWcTqorgzakhENJhd-21" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="1480" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v5FtWcTqorgzakhENJhd-22" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="1480" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-23" value="msg[i] = ch" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5FtWcTqorgzakhENJhd-25" target="v5FtWcTqorgzakhENJhd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-25" value="ch = ch + key" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5FtWcTqorgzakhENJhd-27" target="v5FtWcTqorgzakhENJhd-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-27" value="ch &amp;gt; Z" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="1770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5FtWcTqorgzakhENJhd-29" target="v5FtWcTqorgzakhENJhd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-29" value="ch = ch &#39;Z&#39; + &#39;A&#39; - 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FtWcTqorgzakhENJhd-31" value="msg[i] = ch" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
